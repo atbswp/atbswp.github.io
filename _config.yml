@@ -1,1 +1,10 @@
+# Setup
 theme: jekyll-theme-cayman
+title: Automating Boring Stuff With Python
+tagline: For those who are lazy
+description: For those who are lazy
+
+# About
+author:
+  name: atbswp
+  url: http://atbswp.github.io
