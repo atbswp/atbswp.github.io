@@ -4,6 +4,9 @@ title: Automating Boring Stuff With Python
 tagline: For those who are lazy
 description: For those who are lazy
 
+# Google services
+google_analytics: UA-51355623-6
+
 # About
 author:
   name: atbswp
