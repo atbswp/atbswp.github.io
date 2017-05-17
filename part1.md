@@ -4,8 +4,8 @@
 ```python
 >>> a = [[0]*2]*3
 >>> for i in range(2):
-...     m[0][i]=1
->>> print a
+...     a[0][i]=1
+>>> print(a)
 ```
 
 ```python
@@ -33,12 +33,19 @@
 ```
 
 ```python
->>> for i in range(10): print "*",
+>>> for i in range(10): 
+>>>     print("*")
 # The above line of code results in this :
->>> * * * * * * * * * *
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 # So try to print this :
 >>> **********
-
-# NOTE The first line of output of stars have spaces between each other, 
-now we want to print without any spaces. "THINK!"
 ```
